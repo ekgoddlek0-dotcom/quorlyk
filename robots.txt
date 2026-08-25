@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ekgoddlek0-dotcom.github.io/quorlyk/sitemap.xml
